@@ -5,4 +5,4 @@ NVIDIA R-R-NVA-P3448 model P3448 180-13448-DAAA-B01
 It's possible to add a SD card adapter to this board. I guess so the software is in the eMMC chip.
 Need a Jetson Nano Baseboard
 
-
+SDCard holder reference is : https://fr.farnell.com/molex/503398-1892/connecteur-micro-sd-8pos/dp/2358234
