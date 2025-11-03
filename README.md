@@ -1,4 +1,7 @@
 # ISWARD-GX-Reverse-Engineering
+
+<img width="253" height="199" alt="image" src="https://github.com/user-attachments/assets/3e77a95c-205e-45f0-8980-3dda9b150b8c" />
+
 Working on Lawn Mower ISWARD GX. Discovering, learning, modifying...
 
 
