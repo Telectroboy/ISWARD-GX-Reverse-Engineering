@@ -2,3 +2,7 @@ The main CPU is a NVIDIA Jetson Nano P3448 (B1) module.
 
 NVIDIA R-R-NVA-P3448 model P3448 180-13448-DAAA-B01
 
+It's possible to add a SD card adapter to this board. I guess so the software is in the eMMC chip.
+Need a Jetson Nano Baseboard
+
+
