@@ -15,3 +15,7 @@ https://cad.onshape.com/documents/20d94f306f5c584790ff835d/w/884df90600dd95c4d52
 Link to FCCIO certificate
 https://fcc.report/FCC-ID/2BEYJ-ISWARD001
 
+The Fan is a real pain in the ass!
+I suggest to change it quickly before it dies and the NVIDIA Jetson Nano dies too!
+DC 4010 24V dual ball bearing is a better choice.
+
