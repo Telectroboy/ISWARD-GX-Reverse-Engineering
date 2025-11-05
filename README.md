@@ -20,6 +20,7 @@ https://fcc.report/FCC-ID/2BEYJ-ISWARD001
 The Fan is a real pain in the ass it makes incredible noise 1 month after first startup.
 I suggest to change it quickly before it dies and the NVIDIA Jetson Nano dies by overheat!
 DC 4010 24V dual ball bearing is a better choice.
+
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/6840c778-7cc5-4f62-afa7-2202f49e4b71" />
 
 https://fr.aliexpress.com/item/1005010112785292.html?spm=a2g0o.order_detail.order_detail_item.2.ec807d56JlMA3H&gatewayAdapt=glo2fra
