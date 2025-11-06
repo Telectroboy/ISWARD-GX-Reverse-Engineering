@@ -11,6 +11,8 @@ https://cad.onshape.com/documents/20d94f306f5c584790ff835d/w/884df90600dd95c4d52
 
 <img width="253" height="250" alt="image" src="https://github.com/user-attachments/assets/c37feb1b-4303-4921-9250-c08fcda7b3ff" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/94806798-2ad2-40fd-9a71-2fe2f7339b90" />
+<img width="442" height="360" alt="image" src="https://github.com/user-attachments/assets/c9a4c2b6-a2eb-4a21-8291-4eaf1910e8a6" />
+
 
 # CPU
 It's a Jetson Nano P3448
