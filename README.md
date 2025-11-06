@@ -15,6 +15,9 @@ https://cad.onshape.com/documents/20d94f306f5c584790ff835d/w/884df90600dd95c4d52
 # CPU
 It's a Jetson Nano P3448
 Details are here https://github.com/Telectroboy/ISWARD-GX-Reverse-Engineering/tree/main/isward#readme
+The AI Vision is made by ORBBEC 
+https://fr.aliexpress.com/item/1005005544562491.html?spm=a2g0o.tesla.0.0.6bf1NhdvNhdvXI&afTraceInfo=1005005544562491__pc__c_ppc_item_bridge_pc_main__AdqzHZv__1762434309792&gatewayAdapt=glo2fra
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/2a1a29b8-19a3-49fc-8dfe-0416bddbdfee" />
 
 
 
