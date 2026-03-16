@@ -39,3 +39,9 @@ DC 4010 24V dual ball bearing is a better choice.
 
 https://fr.aliexpress.com/item/1005010112785292.html?spm=a2g0o.order_detail.order_detail_item.2.ec807d56JlMA3H&gatewayAdapt=glo2fra
 
+#Battery Handle
+Redesigning the handle because when we buy a new battery it doesn't come with the handle...
+https://cad.onshape.com/documents/a826d58ab487485b36c87263/w/e2a1e7ec97c1b5c838b54dd0/e/94de017c158639327c12d6b5?renderMode=0&uiState=69b842fb31600b6979dd0038
+<img width="675" height="584" alt="image" src="https://github.com/user-attachments/assets/66b68a67-4367-49a3-8800-5a4a9f3c84b2" />
+
+
