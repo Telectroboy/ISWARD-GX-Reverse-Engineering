@@ -45,3 +45,14 @@ https://cad.onshape.com/documents/a826d58ab487485b36c87263/w/e2a1e7ec97c1b5c838b
 <img width="675" height="584" alt="image" src="https://github.com/user-attachments/assets/66b68a67-4367-49a3-8800-5a4a9f3c84b2" />
 
 
+# Blade Motor
+It's a Linix 57ZWN24-50-34-003 
+https://en.linix.com.cn/product/87.html
+2x Bearings : 608Z
+Rotor Magnet is NdFeB
+<img width="849" height="492" alt="image" src="https://github.com/user-attachments/assets/e8065a4d-d173-46b4-b9e3-7878a9444c9e" />
+https://www.lionpower.ch/downloads/bldcmotor.pdf
+
+
+
+
