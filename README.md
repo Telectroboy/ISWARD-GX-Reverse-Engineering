@@ -54,5 +54,6 @@ Rotor Magnet is NdFeB
 https://www.lionpower.ch/downloads/bldcmotor.pdf
 
 
-
+# Lift Sensor of Cliff Sensor in front freewheels
+https://github.com/Telectroboy/ISWARD-GX-Reverse-Engineering/blob/main/LiftSensorFault_500C.md
 
